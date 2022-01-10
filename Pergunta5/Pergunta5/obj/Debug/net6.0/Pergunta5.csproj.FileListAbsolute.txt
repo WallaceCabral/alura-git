@@ -1,0 +1,15 @@
+F:\RepositorioWallace\Pergunta5\Pergunta5\bin\Debug\net6.0\Pergunta5.exe
+F:\RepositorioWallace\Pergunta5\Pergunta5\bin\Debug\net6.0\Pergunta5.deps.json
+F:\RepositorioWallace\Pergunta5\Pergunta5\bin\Debug\net6.0\Pergunta5.runtimeconfig.json
+F:\RepositorioWallace\Pergunta5\Pergunta5\bin\Debug\net6.0\Pergunta5.dll
+F:\RepositorioWallace\Pergunta5\Pergunta5\bin\Debug\net6.0\ref\Pergunta5.dll
+F:\RepositorioWallace\Pergunta5\Pergunta5\bin\Debug\net6.0\Pergunta5.pdb
+F:\RepositorioWallace\Pergunta5\Pergunta5\obj\Debug\net6.0\Pergunta5.csproj.AssemblyReference.cache
+F:\RepositorioWallace\Pergunta5\Pergunta5\obj\Debug\net6.0\Pergunta5.GeneratedMSBuildEditorConfig.editorconfig
+F:\RepositorioWallace\Pergunta5\Pergunta5\obj\Debug\net6.0\Pergunta5.AssemblyInfoInputs.cache
+F:\RepositorioWallace\Pergunta5\Pergunta5\obj\Debug\net6.0\Pergunta5.AssemblyInfo.cs
+F:\RepositorioWallace\Pergunta5\Pergunta5\obj\Debug\net6.0\Pergunta5.csproj.CoreCompileInputs.cache
+F:\RepositorioWallace\Pergunta5\Pergunta5\obj\Debug\net6.0\Pergunta5.dll
+F:\RepositorioWallace\Pergunta5\Pergunta5\obj\Debug\net6.0\ref\Pergunta5.dll
+F:\RepositorioWallace\Pergunta5\Pergunta5\obj\Debug\net6.0\Pergunta5.pdb
+F:\RepositorioWallace\Pergunta5\Pergunta5\obj\Debug\net6.0\Pergunta5.genruntimeconfig.cache
